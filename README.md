@@ -1,5 +1,5 @@
 # Analyze AB Test Results
-### by Ramy Gendy
+### By Ramy Gendy
 
 A/B tests are very commonly performed by data analysts and data scientists. 
 
